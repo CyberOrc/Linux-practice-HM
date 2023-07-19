@@ -1,0 +1,3 @@
+#!bin/bash
+sudo tar cvpfz ssh.tar /etc/ssh ssh_config
+sudo tar cvpfz system-backup.tar /home /var/log

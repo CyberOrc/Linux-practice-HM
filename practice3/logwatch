@@ -1,0 +1,2 @@
+sudo logwatch --detail high --mailto nm6350027@gmail.com --service postfix xrdp cron
+
